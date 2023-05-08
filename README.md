@@ -47,7 +47,7 @@
  ## Séance 7:
  Objectif 1 ✅     
  Objectif 2 ✅ (*Le graphe a été réalisé sur R avec les légendes appropriées*)   
- Objectif 3 ❌ (*le calcul de la fenêtre glissante nous pose problème: les boucles créent un effet de bord lorsque la fenêtre dépasse la longueur de la séquence.)  
+ Objectif 3 ❌ (*le calcul de la fenêtre glissante nous pose problème: les boucles créent un effet de bord lorsque la fenêtre dépasse la longueur de la séquence.*)  
    
   *Pour simplifier notre algorithme, on a pris la décision de mettre tous les éléments du fichier FASTA en une seule ligne, afin que la fenêtre glissante soit plus facile à traiter.*  
    
